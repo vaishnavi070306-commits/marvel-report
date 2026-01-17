@@ -5,11 +5,11 @@ For this task, I have created a **portfolio webpage** using **HTML**. The purpos
 <img width="1889" height="909" alt="portfoliophoto pngfile" src="https://github.com/user-attachments/assets/2bf1b6ac-5c68-4f29-9b08-d11f3a78ccdc" />
 
 
+# Task 16:Data sheet report writing
 
 ## Introduction
 
 The **L293D** is a dual H-bridge motor driver IC commonly used to control **the direction and speed of DC motors**. It allows a microcontroller or logic circuit to drive motors that require higher current than the controller can supply. The IC contains **two full H-bridge circuits**, enabling **independent bidirectional control of two DC motors**.
-
 
 
 ## IC Configuration

@@ -155,11 +155,11 @@ Engineers use VR to design, test, and validate spacecraft components in simulate
 Astronauts and engineers train in **risk-free virtual simulations**, preparing for critical space mission operations.
 
 ## Top Virtual Reality Companies in India
-### 1.Absentia VR:Specializes in VR content creation tools and immersive experiences for entertainment and education.
-### 2.SmartVizX:Provides VR solutions for architecture, engineering, and construction with immersive virtual walkthroughs.
-### 3.SimulanisDevelops immersive training platforms for industries such as manufacturing and pharmaceuticals.
-### 4.ImagineFocuses on AR and VR collaboration platforms, with its flagship product **NuSpace** enabling virtual meetings and teamwork.
-### 5.VeativeOffers immersive learning solutions with one of the world’s largest **curriculum-aligned VR libraries for STEM education**.
+### 1. Absentia VR:Specializes in VR content creation tools and immersive experiences for entertainment and education.
+### 2. SmartVizX:Provides VR solutions for architecture, engineering, and construction with immersive virtual walkthroughs.
+### 3. SimulanisDevelops immersive training platforms for industries such as manufacturing and pharmaceuticals.
+### 4. ImagineFocuses on AR and VR collaboration platforms, with its flagship product **NuSpace** enabling virtual meetings and teamwork.
+### 5. VeativeOffers immersive learning solutions with one of the world’s largest **curriculum-aligned VR libraries for STEM education**.
 
 
 

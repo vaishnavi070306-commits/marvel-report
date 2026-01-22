@@ -12,9 +12,9 @@ I studied the soldering equipment available in the laboratory, including the sol
 I practiced basic soldering techniques on a perf board by assembling a simple LED setup under the supervision of a coordinator.  
 This experiment helped me understand proper handling and usage of soldering tools.
 
-![WhatsApp Image 2026-01-22 at 5 33 22 PM](https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd)
-![WhatsApp Image 2026-01-22 at 5 31 13 PM](https://github.com/user-attachments/assets/64929fa2-045c-4eaa-b4eb-319e4bdf02d5)
+<img src="https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd" width="400"/>
 
+<img src="https://github.com/user-attachments/assets/64929fa2-045c-4eaa-b4eb-319e4bdf02d5" width="400"/> 
 
 # Task 16:Data sheet report writing
 

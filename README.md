@@ -14,18 +14,18 @@ This experiment helped me understand proper handling and usage of soldering tool
 
 <img src="https://github.com/user-attachments/assets/64929fa2-045c-4eaa-b4eb-319e4bdf02d5" width="400"/> 
 
-## Burglar Alarm Logic Design Using Karnaugh Map
+## Task 14: Karnaugh Maps and Deriving The Logic Gate
 
-For this task, I analyzed the four possible combinations of door status and key input to design a simple burglar alarm using logic gates. The input variables are **Door (D)** and **Key (K)**. The alarm output is **1** when the door is open **and** the key is **not pressed**; otherwise the alarm remains **0**. I referred to a sample task on designing a burglar alarm using combinational logic and a truth table to understand the cases and circuit implementation. 0
+For this task, I analyzed the four possible combinations of door status and key input to design a simple burglar alarm using logic gates. The input variables are **Door (D)** and **Key (K)**. The alarm output is **1** when the door is open **and** the key is **not pressed**; otherwise the alarm remains **0**. I referred to a sample task on designing a burglar alarm using combinational logic and a truth table to understand the cases and circuit implementation. ([hub.uvcemarvel.in](https://hub.uvcemarvel.in/article/69bf16aa-13fb-47c1-a5ac-e5a6912a3f68?utm_source=chatgpt.com))
 
-I used a **truth table** to list all combinations of D and K, and then transferred them into a **Karnaugh Map (K‑Map)** to simplify the Boolean expression. A Karnaugh Map helps to visually group 1s from the truth table to get a simplified sum‑of‑products (SOP) logic expression, reducing the number of logic gates needed. 1
+I used a **truth table** to list all combinations of D and K, and then transferred them into a **Karnaugh Map (K‑Map)** to simplify the Boolean expression. A Karnaugh Map helps to visually group 1s from the truth table to get a simplified sum‑of‑products (SOP) logic expression, reducing the number of logic gates needed. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Karnaugh_map?utm_source=chatgpt.com))
 
-By filling the K‑Map based on the required output conditions and grouping the adjacent high (1) cells, I derived the simplified expression for the alarm output. I then implemented this using basic logic gates such as AND and NOT. A Karnaugh Map is an effective method to minimize Boolean expressions in digital circuit design. 2
+By filling the K‑Map based on the required output conditions and grouping the adjacent high (1) cells, I derived the simplified expression for the alarm output. I then implemented this using basic logic gates such as AND and NOT. A Karnaugh Map is an effective method to minimize Boolean expressions in digital circuit design. ([geeksforgeeks.org](https://www.geeksforgeeks.org/digital-logic/introduction-of-k-map-karnaugh-map/?utm_source=chatgpt.com))
 
 ### References
-- Burglar alarm logic design and truth table example: https://hub.uvcemarvel.in/article/69bf16aa-13fb-47c1-a5ac-e5a6912a3f68 3  
-- Description and purpose of Karnaugh Maps: https://en.wikipedia.org/wiki/Karnaugh_map 4  
-- How to use Karnaugh Maps for minimization: https://www.geeksforgeeks.org/digital-logic/introduction-of-k-map-karnaugh-map/ 5
+- Burglar alarm logic design and truth table example: https://hub.uvcemarvel.in/article/69bf16aa-13fb-47c1-a5ac-e5a6912a3f68 ([hub.uvcemarvel.in](https://hub.uvcemarvel.in/article/69bf16aa-13fb-47c1-a5ac-e5a6912a3f68?utm_source=chatgpt.com))  
+- Description and purpose of Karnaugh Maps: https://en.wikipedia.org/wiki/Karnaugh_map ([en.wikipedia.org](https://en.wikipedia.org/wiki/Karnaugh_map?utm_source=chatgpt.com))  
+- How to use Karnaugh Maps for minimization: https://www.geeksforgeeks.org/digital-logic/introduction-of-k-map-karnaugh-map/ ([geeksforgeeks.org](https://www.geeksforgeeks.org/digital-logic/introduction-of-k-map-karnaugh-map/?utm_source=chatgpt.com))
 
 # Task 16:Data sheet report writing
 

@@ -5,6 +5,17 @@ For this task, I have created a **portfolio webpage** using **HTML**. The purpos
 <img width="1889" height="909" alt="portfoliophoto pngfile" src="https://github.com/user-attachments/assets/2bf1b6ac-5c68-4f29-9b08-d11f3a78ccdc" />
 
 
+
+## Task 12: Soldering Prerequisites
+
+I studied the soldering equipment available in the laboratory, including the soldering iron, solder wire, flux, and soldering wick, and learned their functions.  
+I practiced basic soldering techniques on a perf board by assembling a simple LED setup under the supervision of a coordinator.  
+This experiment helped me understand proper handling and usage of soldering tools.
+
+![WhatsApp Image 2026-01-22 at 5 33 22 PM](https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd)
+![WhatsApp Image 2026-01-22 at 5 31 13 PM](https://github.com/user-attachments/assets/64929fa2-045c-4eaa-b4eb-319e4bdf02d5)
+
+
 # Task 16:Data sheet report writing
 
 ## Introduction

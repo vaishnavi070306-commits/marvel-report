@@ -4,6 +4,21 @@ For this task, I have created a **portfolio webpage** using **HTML**. The purpos
 
 <img width="1889" height="909" alt="portfoliophoto pngfile" src="https://github.com/user-attachments/assets/2bf1b6ac-5c68-4f29-9b08-d11f3a78ccdc" />
 
+
+
+# Task 10: Speed control of DC motor
+
+A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to explore basic techniques of motor speed and direction control. The motor speed was varied using PWM signals, and the direction was adjusted through the H-Bridge connections. This experiment provided practical experience in connecting the hardware, configuring the motor driver, and using Arduino programming to control motor behavior effectively. The process helped in understanding the application of PWM and H-Bridge circuits in real-world motor control systems.
+![WhatsApp Image 2026-01-24 at 12 48 50 PM](https://github.com/user-attachments/assets/4b69214b-91f5-4746-856c-899ac45919bf)
+
+The results showed that the motor responded smoothly to changes in PWM signals, allowing precise control over its speed. Forward and reverse motion was achieved reliably by switching the H-Bridge input pins, and the motor maintained stable operation across different speed settings. Recording the experiment confirmed that the setup worked as intended and demonstrated the practical effectiveness of using Arduino and L298N driver for DC motor control.
+
+https://github.com/user-attachments/assets/6ee82cbf-0ec9-4ff7-8195-8dd657b52d8b
+
+
+
+
+
 ## Task 12: Soldering Prerequisites
 
 I studied the soldering equipment available in the laboratory, including the soldering iron, solder wire, flux, and soldering wick, and learned their functions.  

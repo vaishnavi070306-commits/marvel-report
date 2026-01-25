@@ -12,7 +12,13 @@ For this task, I built a small web app that shows real-time weather for any city
 
  Here's the link [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
 
+### Task 3: Working with GitHub
 
+In this task, I identified and fixed a small bug in an existing GitHub repository. The issue was present in the `add()` function, where an extra operation caused incorrect output, and I corrected it to ensure the function worked as expected. Through this task, I learned how GitHub workflows operate, including forking a repository, making changes on a separate branch, and creating a pull request to propose updates to the main repository. I also gained hands-on experience with repository management, code review processes, and collaboration using GitHub. 
+
+![Screenshot_25-1-2026_122538_github com](https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f)
+
+**[GitHub](https://github.com/vaishnavi070306-commits/git-task)**.
 
 # Task 7: Create a Portfolio Webpage
 

@@ -8,7 +8,8 @@
 
 For this task, I built a small web app that shows real-time weather for any city using the OpenWeather API. I made it so I can type a city name and click a button to see the temperature, weather conditions, humidity, and wind speed. I also added a feature to refresh the data automatically every five minutes so it stays updated. While working on this, I got hands-on experience with fetching data from an API using JavaScript and displaying it on a webpage. It was interesting to see how quickly I could make the app respond to user input and show live information.  
 
-![Screenshot_24-1-2026_125020_](https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682)
+<img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="400"/>
+
 
  Here's the link [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
 
@@ -16,7 +17,7 @@ For this task, I built a small web app that shows real-time weather for any city
 
 In this task, I identified and fixed a small bug in an existing GitHub repository. The issue was present in the `add()` function, where an extra operation caused incorrect output, and I corrected it to ensure the function worked as expected. Through this task, I learned how GitHub workflows operate, including forking a repository, making changes on a separate branch, and creating a pull request to propose updates to the main repository. I also gained hands-on experience with repository management, code review processes, and collaboration using GitHub. 
 
-![Screenshot_25-1-2026_122538_github com](https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f)
+<img src="https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f" width="400"/>
 
 **[GitHub](https://github.com/vaishnavi070306-commits/git-task)**.
 
@@ -31,7 +32,7 @@ For this task, I have created a **portfolio webpage** using **HTML**. The purpos
 In this task, a Tinkercad account was used to explore the simulation environment and example circuits. A circuit with an ultrasonic sensor was simulated to measure the distance between the sensor and an object, and the results were displayed on the serial monitor. The ultrasonic sensor works by sending sound waves and calculating the time taken for the echo to return. A basic radar system was also implemented by attaching a servo motor to the sensor, allowing it to rotate and detect objects over a wider area. This experiment helped in understanding distance measurement, servo control, and how these can be combined for object detection. 
 
 
-![Screenshot_24-1-2026_20252_www tinkercad com](https://github.com/user-attachments/assets/ee988e03-9436-457f-bcb6-eee59867ea0c)
+<img src="https://github.com/user-attachments/assets/ee988e03-9436-457f-bcb6-eee59867ea0c" width="400"/>
 
 
 [tinkercad](https://www.tinkercad.com/things/49RVmJZ56W4/editel).
@@ -39,7 +40,8 @@ In this task, a Tinkercad account was used to explore the simulation environment
 # Task 10: Speed control of DC motor
 
 A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to explore basic techniques of motor speed and direction control. The motor speed was varied using PWM signals, and the direction was adjusted through the H-Bridge connections. This experiment provided practical experience in connecting the hardware, configuring the motor driver, and using Arduino programming to control motor behavior effectively. The process helped in understanding the application of PWM and H-Bridge circuits in real-world motor control systems.
-![WhatsApp Image 2026-01-24 at 12 48 50 PM](https://github.com/user-attachments/assets/4b69214b-91f5-4746-856c-899ac45919bf)
+
+<img src="https://github.com/user-attachments/assets/4b69214b-91f5-4746-856c-899ac45919bf" width="400"/>
 
 The results showed that the motor responded smoothly to changes in PWM signals, allowing precise control over its speed. Forward and reverse motion was achieved reliably by switching the H-Bridge input pins, and the motor maintained stable operation across different speed settings. Recording the experiment confirmed that the setup worked as intended and demonstrated the practical effectiveness of using Arduino and L298N driver for DC motor control.
 
@@ -156,7 +158,7 @@ Together, these technologies create an **immersive and believable digital world*
 
 Although VR feels like a modern invention, it has existed in various forms for **decades**. Early examples include **360° panoramic paintings**, which surprised audiences by creating a sense of immersion long before digital VR existed.
 
-![WhatsApp Image 2026-01-18 at 11 47 45 AM](https://github.com/user-attachments/assets/4f13c1ca-36ee-47a0-98e1-753987f0adad)
+<img src="https://github.com/user-attachments/assets/4f13c1ca-36ee-47a0-98e1-753987f0adad" width="400"/>
 
 Virtual Reality can be considered the **“wise mind” of the digital world**—it creates an environment that functions independently of the user while still allowing interaction. It offers first-hand experiences of events and scenarios, including their psychological after-effects.
 
@@ -196,12 +198,20 @@ Engineers use VR to design, test, and validate spacecraft components in simulate
 Astronauts and engineers train in **risk-free virtual simulations**, preparing for critical space mission operations.
 
 ## Top Virtual Reality Companies in India
-### 1. Absentia VR:Specializes in VR content creation tools and immersive experiences for entertainment and education.
-### 2. SmartVizX:Provides VR solutions for architecture, engineering, and construction with immersive virtual walkthroughs.
-### 3. SimulanisDevelops immersive training platforms for industries such as manufacturing and pharmaceuticals.
-### 4. ImagineFocuses on AR and VR collaboration platforms, with its flagship product **NuSpace** enabling virtual meetings and teamwork.
-### 5. VeativeOffers immersive learning solutions with one of the world’s largest **curriculum-aligned VR libraries for STEM education**.
 
+### Best Virtual Reality Companies in India
 
+1. **AjnaLens**: Specializes in mixed reality headsets and software for defense, education, and industrial training.  
+2. **Simbott**: Known for industrial VR solutions, including high-quality welding and spray painting simulators.  
+3. **Fusion VR**: Offers Industry 4.0 solutions, specializing in VR training simulations and digital twin technology.  
+4. **AutoVRse**: Focuses on enterprise VR, creating high-end, interactive experiences and simulations.  
+5. **Quytech**: Develops custom VR applications for various industries, including gaming and healthcare.  
+6. **Next Big Technology (NBT)**: Provides customized AR/VR development services.  
+7. **CHRP INDIA**: Focuses on immersive learning technologies and interactive training simulations.  
+8. **PropVR**: Specializes in VR for real estate, allowing for virtual property tours.
 
+# Task 18: Sad Servers
 
+In this task, I worked on the "Command Line Murders" scenario on SadServers. The objective was to identify the culprit and make the server happy by providing the correct answer. I accessed the virtual server and created a solution file containing the name of the murderer. After saving the file, I submitted it to complete the challenge. This task allowed me to interact with a Linux server environment in a simple way and gave a basic understanding of how solution files can be used to record and submit answers in troubleshooting scenarios.
+
+<img src="https://github.com/user-attachments/assets/d400122c-bfa7-46f4-8608-7f3b414c9475" width="400"/>

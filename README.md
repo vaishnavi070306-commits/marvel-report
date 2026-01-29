@@ -55,15 +55,21 @@ I studied the soldering equipment available in the laboratory, including the sol
 I practiced basic soldering techniques on a perf board by assembling a simple LED setup under the supervision of a coordinator.  
 This experiment helped me understand proper handling and usage of soldering tools.
 
-
-
 <img src="https://github.com/user-attachments/assets/36945e5e-560f-41c9-8e9b-52f7aedc1443" width="400"/>
 
 <img src="https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd" width="400"/>
 
 ## Task 14: Karnaugh Maps and Deriving The Logic Gate
 
-In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases, then used a **Karnaugh Map (K-Map)** to simplify the logic. The resulting Boolean expression is **A = D · K̅**, which I implemented using a **NOT gate** for the key input and an **AND gate** to drive the buzzer or LED. This exercise helped me understand how K-Maps simplify logic for practical circuits.
+In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases, 
+![1000094610](https://github.com/user-attachments/assets/b356f3ff-4c3a-42a0-97ce-97bd0c130d8b)
+
+then used a **Karnaugh Map (K-Map)** to simplify the logic. The resulting Boolean expression is **A = D · K̅**  
+![1000094612](https://github.com/user-attachments/assets/e8c97410-9c76-4f32-9937-f83dfcdd6240)
+
+I implemented it using a **NOT gate** for the key input and an **AND gate** to drive the buzzer or LED. This exercise helped me understand how K-Maps simplify logic for practical circuits.
+![1000094614](https://github.com/user-attachments/assets/f940d1e7-a827-4ee6-abd0-d37a9db14d7a)
+
 
 # Task 16:Data sheet report writing
 

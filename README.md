@@ -4,22 +4,45 @@
 
 
 
-## Task 2: API
+# Task 2: API
 
 For this task, I built a small web app that shows real-time weather for any city using the OpenWeather API. I made it so I can type a city name and click a button to see the temperature, weather conditions, humidity, and wind speed. I also added a feature to refresh the data automatically every five minutes so it stays updated. While working on this, I got hands-on experience with fetching data from an API using JavaScript and displaying it on a webpage. It was interesting to see how quickly I could make the app respond to user input and show live information.  
 
-<img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="800"/>
+<img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="1000"/>
 
+ [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
 
- Here's the link [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
-
-### Task 3: Working with GitHub
+# Task 3: Working with GitHub
 
 In this task, I identified and fixed a small bug in an existing GitHub repository. The issue was present in the `add()` function, where an extra operation caused incorrect output, and I corrected it to ensure the function worked as expected. Through this task, I learned how GitHub workflows operate, including forking a repository, making changes on a separate branch, and creating a pull request to propose updates to the main repository. I also gained hands-on experience with repository management, code review processes, and collaboration using GitHub. 
 
-<img src="https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f" width="800"/>
+<img src="https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f" width="1000"/>
 
 **[GitHub](https://github.com/vaishnavi070306-commits/git-task)**.
+
+# Task 4: Ubuntu Command Line Practice
+
+In this task, I practiced creating multiple directories in Ubuntu. I used loops to generate a large number of folders automatically, which helped me understand how repetitive tasks can be automated and reinforced basic command-line operations for managing and organizing directories efficiently.
+![WhatsApp Image 2026-01-31 at 8 43 20 PM](https://github.com/user-attachments/assets/61302781-042d-4066-a8f0-ccae9b37b439)
+
+![WhatsApp Image 2026-01-31 at 8 43 20 PM (1)](https://github.com/user-attachments/assets/4f270cc6-5fbb-423f-a8a2-8a77b122d2fe)
+
+Another part of the task involved working with text files. I created two files and used the command line to combine and display their contents in the terminal. This exercise helped me get familiar with basic file manipulation and how commands can be used to work with text without relying on a graphical interface.
+
+![WhatsApp Image 2026-01-31 at 8 43 20 PM (2)](https://github.com/user-attachments/assets/47f25384-7193-4ba3-a091-48d4cfa4ffe7)
+
+
+# Task 5: Linear Regression from Scratch
+
+For this activity, I worked with the California Housing dataset and trained a **Linear Regression model** using **gradient descent**. I also compared my results with **scikit-learn's LinearRegression**.  
+
+The model was able to capture the trend in the data, and the graph clearly shows how **median income** relates to **house prices**. This activity helped me understand how models learn from data and how easy it is to use libraries like sklearn for comparison.
+
+![Screenshot_31-1-2026_195242_colab research google com](https://github.com/user-attachments/assets/cddc2971-df4d-4edf-aca0-1a1261241eae)
+
+
+ [my task](https://www.kaggle.com/code/vaishnavi070306/california) 
+
 
 # Task 7: Create a Portfolio Webpage
 
@@ -49,7 +72,7 @@ https://github.com/user-attachments/assets/6ee82cbf-0ec9-4ff7-8195-8dd657b52d8b
 
 
 
-## Task 12: Soldering Prerequisites
+# Task 12: Soldering Prerequisites
 
 I studied the soldering equipment available in the laboratory, including the soldering iron, solder wire, flux, and soldering wick, and learned their functions.  
 I practiced basic soldering techniques on a perf board by assembling a simple LED setup under the supervision of a coordinator.  
@@ -59,7 +82,7 @@ This experiment helped me understand proper handling and usage of soldering tool
 
 <img src="https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd" width="400"/>
 
-## Task 14: Karnaugh Maps and Deriving The Logic Gate
+# Task 14: Karnaugh Maps and Deriving The Logic Gate
 
 In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases, 
 ![1000094610](https://github.com/user-attachments/assets/b356f3ff-4c3a-42a0-97ce-97bd0c130d8b)
@@ -71,7 +94,7 @@ I implemented it using a **NOT gate** for the key input and an **AND gate** to d
 ![1000094614](https://github.com/user-attachments/assets/f940d1e7-a827-4ee6-abd0-d37a9db14d7a)
 
 
-# Task 16:Data sheet report writing
+# Task 16: Data sheet report writing
 
 ## Introduction
 
@@ -140,7 +163,7 @@ An H-bridge is a circuit that allows a motor to be driven **forward or backward*
 - Educational experiments for motor interfacing  
 - Small electric vehicles or conveyor systems
 
-# TASK 17:Introduction to VR
+# TASK 17: Introduction to VR
 
 ## What is Virtual Reality?
 

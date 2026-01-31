@@ -4,7 +4,7 @@
 
 
 
-# Task 2: API
+# ***Task 2: API***
 
 For this task, I built a small web app that shows real-time weather for any city using the OpenWeather API. I made it so I can type a city name and click a button to see the temperature, weather conditions, humidity, and wind speed. I also added a feature to refresh the data automatically every five minutes so it stays updated. While working on this, I got hands-on experience with fetching data from an API using JavaScript and displaying it on a webpage. It was interesting to see how quickly I could make the app respond to user input and show live information.  
 
@@ -12,7 +12,7 @@ For this task, I built a small web app that shows real-time weather for any city
 
  [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
 
-# Task 3: Working with GitHub
+# ***Task 3: Working with GitHub***
 
 In this task, I identified and fixed a small bug in an existing GitHub repository. The issue was present in the `add()` function, where an extra operation caused incorrect output, and I corrected it to ensure the function worked as expected. Through this task, I learned how GitHub workflows operate, including forking a repository, making changes on a separate branch, and creating a pull request to propose updates to the main repository. I also gained hands-on experience with repository management, code review processes, and collaboration using GitHub. 
 
@@ -20,7 +20,7 @@ In this task, I identified and fixed a small bug in an existing GitHub repositor
 
 **[GitHub](https://github.com/vaishnavi070306-commits/git-task)**.
 
-# Task 4: Ubuntu Command Line Practice
+# ***Task 4: Ubuntu Command Line Practice***
 
 In this task, I practiced creating multiple directories in Ubuntu. I used loops to generate a large number of folders automatically, which helped me understand how repetitive tasks can be automated and reinforced basic command-line operations for managing and organizing directories efficiently.
 ![WhatsApp Image 2026-01-31 at 8 50 15 PM](https://github.com/user-attachments/assets/995a7650-5865-43f7-a3b7-1976620f73cb)
@@ -33,7 +33,7 @@ Another part of the task involved working with text files. I created two files a
 ![WhatsApp Image 2026-01-31 at 8 43 20 PM (2)](https://github.com/user-attachments/assets/47f25384-7193-4ba3-a091-48d4cfa4ffe7)
 
 
-# Task 5: Linear Regression from Scratch
+# ***Task 5: Linear Regression from Scratch***
 
 For this activity, I worked with the California Housing dataset and trained a **Linear Regression model** using **gradient descent**. I also compared my results with **scikit-learn's LinearRegression**.  
 
@@ -45,7 +45,7 @@ The model was able to capture the trend in the data, and the graph clearly shows
  [my task](https://www.kaggle.com/code/vaishnavi070306/california) 
 
 
-# Task 7: Create a Portfolio Webpage
+# ***Task 7: Create a Portfolio Webpage***
 
 For this task, I have created a **portfolio webpage** using **HTML**. The purpose of the webpage is to showcase my profile, interests, projects, and social media profiles in a clean and professional manner. 
 
@@ -61,7 +61,7 @@ In this task, a Tinkercad account was used to explore the simulation environment
 
 [tinkercad](https://www.tinkercad.com/things/49RVmJZ56W4/editel)
 
-# Task 10: Speed control of DC motor
+# ***Task 10: Speed control of DC motor***
 
 A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to explore basic techniques of motor speed and direction control. The motor speed was varied using PWM signals, and the direction was adjusted through the H-Bridge connections. This experiment provided practical experience in connecting the hardware, configuring the motor driver, and using Arduino programming to control motor behavior effectively. The process helped in understanding the application of PWM and H-Bridge circuits in real-world motor control systems.
 
@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/027620da-2066-4655-9518-beb70d508167
 
 
 
-# Task 12: Soldering Prerequisites
+# ***Task 12: Soldering Prerequisites***
 
 I studied the soldering equipment available in the laboratory, including the soldering iron, solder wire, flux, and soldering wick, and learned their functions.  
 I practiced basic soldering techniques on a perf board by assembling a simple LED setup under the supervision of a coordinator.  
@@ -87,7 +87,7 @@ This experiment helped me understand proper handling and usage of soldering tool
 
 <img src="https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd" width="400"/>
 
-# Task 14: Karnaugh Maps and Deriving The Logic Gate
+# ***Task 14: Karnaugh Maps and Deriving The Logic Gate***
 
 In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases
 
@@ -102,7 +102,7 @@ I implemented it using a **NOT gate** for the key input and an **AND gate** to d
 <img src="https://github.com/user-attachments/assets/f940d1e7-a827-4ee6-abd0-d37a9db14d7a" width="450">
 
 
-# Task 16: Data sheet report writing
+# ***Task 16: Data sheet report writing***
 
 The **L293D** is a dual H-bridge motor driver IC commonly used to control **the direction and speed of DC motors**. It allows a microcontroller or logic circuit to drive motors that require higher current than the controller can supply. The IC contains **two full H-bridge circuits**, enabling **independent bidirectional control of two DC motors**.
 
@@ -166,7 +166,7 @@ An H-bridge is a circuit that allows a motor to be driven **forward or backward*
 - Educational experiments for motor interfacing  
 - Small electric vehicles or conveyor systems
 
-# TASK 17: Introduction to VR
+# ***TASK 17: Introduction to VR***
 
 ## What is Virtual Reality?
 
@@ -242,7 +242,7 @@ Astronauts and engineers train in **risk-free virtual simulations**, preparing f
 7. **CHRP INDIA**: Focuses on immersive learning technologies and interactive training simulations.  
 8. **PropVR**: Specializes in VR for real estate, allowing for virtual property tours.
 
-# Task 18: Sad Servers
+# ***Task 18: Sad Servers***
 
 In this task, I worked on the "Command Line Murders" scenario on SadServers. The objective was to identify the culprit and make the server happy by providing the correct answer. I accessed the virtual server and created a solution file containing the name of the murderer. After saving the file, I submitted it to complete the challenge. This task allowed me to interact with a Linux server environment in a simple way and gave a basic understanding of how solution files can be used to record and submit answers in troubleshooting scenarios.
 

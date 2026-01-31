@@ -69,7 +69,7 @@ A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to e
 
 The results showed that the motor responded smoothly to changes in PWM signals, allowing precise control over its speed. Forward and reverse motion was achieved reliably by switching the H-Bridge input pins, and the motor maintained stable operation across different speed settings. Recording the experiment confirmed that the setup worked as intended and demonstrated the practical effectiveness of using Arduino and L298N driver for DC motor control.
 
-<img src="https://github.com/user-attachments/assets/6ee82cbf-0ec9-4ff7-8195-8dd657b52d8b" width="450">
+![Screenshot](https://github.com/user-attachments/assets/6ee82cbf-0ec9-4ff7-8195-8dd657b52d8b)
 
 
 

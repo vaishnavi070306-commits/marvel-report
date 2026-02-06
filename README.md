@@ -203,6 +203,7 @@ Although VR feels like a modern invention, it has existed in various forms for *
 
 <img src="https://github.com/user-attachments/assets/4f13c1ca-36ee-47a0-98e1-753987f0adad" width="500"/>
 
+
 Virtual Reality can be considered the **“wise mind” of the digital world**—it creates an environment that functions independently of the user while still allowing interaction. It offers first-hand experiences of events and scenarios, including their psychological after-effects.
 
 This makes VR a powerful tool for understanding **human perception, cognition, and behavior**.
@@ -210,6 +211,8 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 ## Difference Between Virtual Reality (VR) and Augmented Reality (AR)
 
 <img src="https://github.com/user-attachments/assets/cbe751db-f4ef-47e9-909d-bdaa2d8b58c6" width="450">
+
+
 
 | Feature | Virtual Reality (VR) | Augmented Reality (AR) |
 |------|---------------------|------------------------|

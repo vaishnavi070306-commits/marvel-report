@@ -233,23 +233,15 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 
 
 ## Emerging Trends in Virtual Reality and Space Technology
-### 1. Mixed Reality Integration
-Devices like **Apple Vision Pro+** and **HTC Vive XR Elite 2** blend virtual objects with the physical world. This mixed reality approach is transforming design, training, and collaboration.
-### 2. Wireless, All-in-One Devices
-Standalone VR headsets no longer require external PCs or consoles. Devices like **Meta Quest 4** offer high-resolution graphics, longer battery life, and complete freedom of movement.
-### 3. Eye-Tracking and Hand-Gesture Controls
-Advanced sensors track eye movement and hand gestures, enabling intuitive navigation, realistic avatars, and optimized rendering for smoother performance.
-### 4. VR in Education and Healthcare
-- Schools use VR for immersive lessons in science, history, and engineering  
-- Hospitals apply VR for pain management, surgical training, and therapy  
-### 5. Virtual Workspaces:
-Remote teams collaborate in **3D virtual offices**, conducting meetings, presentations, and co-editing 3D models beyond traditional video calls.
-### 6. Teleoperation of Spacecraft and Rovers
-VR enables precise teleoperation of spacecraft and robotic rovers, bridging the gap between Earth and space missions.
-### 7. Designing and Testing Space Equipment 
-Engineers use VR to design,test, and validate spacecraft components in simulated environments before physical production.
-### 8. Mission Training and Simulation
-Astronauts and engineers train in **risk-free virtual simulations**, preparing for critical space mission operations.
+1. Mixed Reality Integration: Devices like **Apple Vision Pro+** and **HTC Vive XR Elite 2** blend virtual objects with the physical world. This mixed reality approach is transforming design, training, and collaboration.
+2. Wireless, All-in-One Devices: Standalone VR headsets no longer require external PCs or consoles. Devices like **Meta Quest 4** offer high-resolution graphics, longer battery life, and complete freedom of movement.
+3. Eye-Tracking and Hand-Gesture Controls: Advanced sensors track eye movement and hand gestures, enabling intuitive navigation, realistic avatars, and optimized rendering for smoother performance.
+4. VR in Education and Healthcare: Schools use VR for immersive lessons in science, history, and engineering  
+ Hospitals apply VR for pain management, surgical training, and therapy  
+5. Virtual Workspaces:Remote teams collaborate in **3D virtual offices**, conducting meetings, presentations, and co-editing 3D models beyond traditional video calls.
+6. Teleoperation of Spacecraft and Rovers: VR enables precise teleoperation of spacecraft and robotic rovers, bridging the gap between Earth and space missions.
+7. Designing and Testing Space Equipment: Engineers use VR to design,test, and validate spacecraft components in simulated environments before physical production.
+8. Mission Training and Simulation: Astronauts and engineers train in **risk-free virtual simulations**, preparing for critical space mission operations.
 
 ## Top Virtual Reality Companies in India
 1. **AjnaLens**: Specializes in mixed reality headsets and software for defense, education, and industrial training.  

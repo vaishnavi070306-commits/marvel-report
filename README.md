@@ -183,6 +183,8 @@ An H-bridge is a circuit that allows a motor to be driven **forward or backward*
 - Educational experiments for motor interfacing  
 - Small electric vehicles or conveyor systems
 
+  
+
 # TASK 17: Introduction to VR
 
 ## What is Virtual Reality?
@@ -240,19 +242,16 @@ Advanced sensors track eye movement and hand gestures, enabling intuitive naviga
 ### 4. VR in Education and Healthcare
 - Schools use VR for immersive lessons in science, history, and engineering  
 - Hospitals apply VR for pain management, surgical training, and therapy  
-### 5. Virtual Workspaces
+### 5. Virtual Workspaces:
 Remote teams collaborate in **3D virtual offices**, conducting meetings, presentations, and co-editing 3D models beyond traditional video calls.
 ### 6. Teleoperation of Spacecraft and Rovers
 VR enables precise teleoperation of spacecraft and robotic rovers, bridging the gap between Earth and space missions.
-### 7. Designing and Testing Space Equipment
-Engineers use VR to design, test, and validate spacecraft components in simulated environments before physical production.
+### 7. Designing and Testing Space Equipment 
+Engineers use VR to design,test, and validate spacecraft components in simulated environments before physical production.
 ### 8. Mission Training and Simulation
 Astronauts and engineers train in **risk-free virtual simulations**, preparing for critical space mission operations.
 
 ## Top Virtual Reality Companies in India
-
-### Best Virtual Reality Companies in India
-
 1. **AjnaLens**: Specializes in mixed reality headsets and software for defense, education, and industrial training.  
 2. **Simbott**: Known for industrial VR solutions, including high-quality welding and spray painting simulators.  
 3. **Fusion VR**: Offers Industry 4.0 solutions, specializing in VR training simulations and digital twin technology.  
@@ -261,6 +260,9 @@ Astronauts and engineers train in **risk-free virtual simulations**, preparing f
 6. **Next Big Technology (NBT)**: Provides customized AR/VR development services.  
 7. **CHRP INDIA**: Focuses on immersive learning technologies and interactive training simulations.  
 8. **PropVR**: Specializes in VR for real estate, allowing for virtual property tours.
+
+
+
 
 # Task 18: Sad Servers
 

@@ -10,14 +10,13 @@ I worked on understanding the working of a 3D printer, including the use of STL 
 
 <br><br>
 
-
 # Task 2: API
 
 For this task, I built a small web app that shows real-time weather for any city using the OpenWeather API. I made it so I can type a city name and click a button to see the temperature, weather conditions, humidity, and wind speed. I also added a feature to refresh the data automatically every five minutes so it stays updated. While working on this, I got hands-on experience with fetching data from an API using JavaScript and displaying it on a webpage. It was interesting to see how quickly I could make the app respond to user input and show live information.  
 
 <img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="900"/>
 
- [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
+[GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
  <br><br>
 
 # Task 3: Working with GitHub
@@ -26,11 +25,14 @@ In this task, I identified and fixed a small bug in an existing GitHub repositor
 
 <img src="https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f" width="1000"/>
 
-**[GitHub](https://github.com/vaishnavi070306-commits/git-task)**.
+**[GitHub](https://github.com/vaishnavi070306-commits/git-task)**
 <br><br>
+
+
 # Task 4: Ubuntu Command Line Practice
 
 In this task, I practiced creating multiple directories in Ubuntu. I used loops to generate a large number of folders automatically, which helped me understand how repetitive tasks can be automated and reinforced basic command-line operations for managing and organizing directories efficiently.
+<br><br>
 ![WhatsApp Image 2026-01-31 at 8 50 15 PM](https://github.com/user-attachments/assets/995a7650-5865-43f7-a3b7-1976620f73cb)
 ![WhatsApp Image 2026-01-31 at 8 50 16 PM](https://github.com/user-attachments/assets/b98a20ad-56c9-4929-9618-8701af8a67b6)
 
@@ -47,7 +49,7 @@ Another part of the task involved working with text files. I created two files a
 For this activity,I worked with the California Housing dataset and trained a **Linear Regression model** using **gradient descent**. I also compared my results with **scikit-learn's LinearRegression**.  
 
 The model was able to capture the trend in the data, and the graph clearly shows how **median income** relates to **house prices**. This activity helped me understand how models learn from data and how easy it is to use libraries like scikit-learn for comparison.
-
+<br><br>
 ![Screenshot_31-1-2026_195242_colab research google com](https://github.com/user-attachments/assets/cddc2971-df4d-4edf-aca0-1a1261241eae)
 
 
@@ -61,7 +63,7 @@ In this task, I worked with a scrambled matrix using NumPy to understand its str
 
 I used basic NumPy operations such as reshaping and rotating the matrix to decode the hidden image. With Matplotlib’s `imshow()` function, I was able to visualize the matrix and reveal the image. This task helped me build confidence in working with NumPy arrays and basic data visualization.
 
-
+<br><br>
 ![Screenshot_6-2-2026_201253_colab research google com](https://github.com/user-attachments/assets/8aed5edb-8ebf-4591-9bf4-23b49c0b779c)
 
 Here's the link to my [Notebook](https://colab.research.google.com/drive/1SZJnb5A0ckT59hNg81caAXgE9uZjXty6)
@@ -69,6 +71,7 @@ Here's the link to my [Notebook](https://colab.research.google.com/drive/1SZJnb5
 
 
 # Task 7: Create A Portfolio Webpage
+<br><br>
 
 For this task, I have created a **portfolio webpage** using **HTML**. The purpose of the webpage is to showcase my profile, interests, projects, and social media profiles in a clean and professional manner. 
 
@@ -96,6 +99,7 @@ In this task, a Tinkercad account was used to explore the simulation environment
 # Task 10: Speed Control of DC Motor
 
 A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to explore basic techniques of motor speed and direction control. The motor speed was varied using PWM signals, and the direction was adjusted through the H-Bridge connections. This experiment provided practical experience in connecting the hardware, configuring the motor driver, and using Arduino programming to control motor behavior effectively. The process helped in understanding the application of PWM and H-Bridge circuits in real-world motor control systems.
+<br><br>
 
 <img src="https://github.com/user-attachments/assets/4b69214b-91f5-4746-856c-899ac45919bf" width="500"/>
 
@@ -110,6 +114,7 @@ https://github.com/user-attachments/assets/027620da-2066-4655-9518-beb70d508167
 # Task 11: LED Toggle Using ESP32
 
 In this task, I learnt the working of the ESP32 microcontroller and how to create a standalone web server using it. I configured the Arduino IDE to support the ESP32 board and successfully uploaded the program. An LED was interfaced with the ESP32 and controlled through a web-based interface. The web server hosted on the ESP32 allowed the LED to be toggled ON and OFF using a browser. This task helped me understand web-based control using a microcontroller and basic IoT implementation.
+<br><br>
 
 ![WhatsApp Image 2026-02-12 at 8 05 03 PM](https://github.com/user-attachments/assets/a86bd521-9394-4d05-9a42-418ad1893e8c)
 <br><br>
@@ -119,15 +124,18 @@ In this task, I learnt the working of the ESP32 microcontroller and how to creat
 I studied the soldering equipment available in the laboratory, including the soldering iron, solder wire, flux, and soldering wick, and learned their functions.  
 I practiced basic soldering techniques on a perf board by assembling a simple LED setup under the supervision of a coordinator.  
 This experiment helped me understand proper handling and usage of soldering tools.
+<br><br>
 
 <img src="https://github.com/user-attachments/assets/36945e5e-560f-41c9-8e9b-52f7aedc1443" width="400"/>
 
 <img src="https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd" width="400"/>
 <br><br>
 
+
 # Task 14: Karnaugh Maps And Deriving Logic Gate
 
 In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases
+<br><br>
 
 <img src="https://github.com/user-attachments/assets/b356f3ff-4c3a-42a0-97ce-97bd0c130d8b" width="450">
 <br><br>
@@ -141,12 +149,17 @@ I implemented it using a **NOT gate** for the key input and an **AND gate** to d
 <img src="https://github.com/user-attachments/assets/f940d1e7-a827-4ee6-abd0-d37a9db14d7a" width="450">
 <br><br>
 
+# Task  15: Active Participation 
+
+I participated in Kagadha 2024,in poster presentation under cyber security track that was held at uvce
+
 
 # Task 16: Data Sheet Report Writing
 
 The **L293D** is a dual H-bridge motor driver IC commonly used to control **the direction and speed of DC motors**. It allows a microcontroller or logic circuit to drive motors that require higher current than the controller can supply. The IC contains **two full H-bridge circuits**, enabling **independent bidirectional control of two DC motors**.
 
 ## IC Configuration
+<br><br>
 
 ![WhatsApp Image 2026-01-17 at 7 00 02 PM](https://github.com/user-attachments/assets/99f52530-2052-4e44-b53a-e1e59bf16c9e)
 <br><br>

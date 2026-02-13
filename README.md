@@ -4,7 +4,8 @@
 I worked on understanding the working of a 3D printer, including the use of STL files and the slicing process using Ultimaker or Creality Slicer. The task involved following standard operating procedures and configuring printer parameters such as bed temperature, nozzle temperature, infill density, and material-related settings for PLA filament. An STL file was obtained from an online source, sliced with appropriate parameters, and prepared for printing using FDM-based 3D printing.
 
 <img width="749" height="470" alt="image" src="https://github.com/user-attachments/assets/e3d61dc4-04ea-4c27-a04f-0c9e7e198b99" />
-![WhatsApp Image 2026-02-13 at 8 19 01 PM](https://github.com/user-attachments/assets/c40b3306-c925-480c-9456-b13950c38379)
+![WhatsApp Image 2026-02-13 at 8 19 01 PM](https://github.com/user-attachments/assets/f04cd03e-2671-4754-9779-dd4dac52c0f4)
+
 <br><br>
 
 

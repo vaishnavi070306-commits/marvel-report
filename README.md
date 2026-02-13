@@ -146,30 +146,13 @@ The **L293D** is a dual H-bridge motor driver IC commonly used to control **the 
 ![WhatsApp Image 2026-01-17 at 7 00 02 PM](https://github.com/user-attachments/assets/99f52530-2052-4e44-b53a-e1e59bf16c9e)
 <br><br>
 
-- **Package:** 16-pin Dual In-Line Package (DIP)  
-- **Logic Supply (VSS):** 5 V, powers the internal control circuitry  
-- **Motor Supply (VS):** 4.5–36 V, powers the motors directly  
-- **Ground Pins:** 4, all connected to a common ground  
-- **Control Pins:**  
-  - **IN1 & IN2:** Set the direction of Motor A  
-  - **IN3 & IN4:** Set the direction of Motor B  
-  - **EN1 & EN2:** Enable Motor A and allow PWM speed control  
-  - **EN3 & EN4:** Enable Motor B and allow PWM speed control  
-- **Output Pins:**  
-  - **OUT1 & OUT2:** Motor A terminals  
-  - **OUT3 & OUT4:** Motor B terminals  
+### L293D Pin Description 
 
-### Pin Logic
-
-| Inputs | Enable | Motor Operation |
-|--------|--------|----------------|
-| 0,0    | 1      | Motor stopped  |
-| 0,1    | 1      | Motor rotates clockwise |
-| 1,0    | 1      | Motor rotates counter-clockwise |
-| 1,1    | 1      | Motor stopped  |
-| X,X    | 0      | Motor disabled |
-
-> **Note:** `X` can be either 0 or 1. Speed control is done by applying a **PWM signal** to the Enable pins.
+The L293D motor driver IC consists of 16 pins used for motor control and power supply.  
+**Enable 1,2 (Pin 1)** enables Output 1 and Output 2, while **Enable 3,4 (Pin 9)** enables Output 3 and Output 4.  
+**Input 1 and Input 2** control Output 1 and Output 2, and **Input 3 and Input 4** control Output 3 and Output 4.  
+**Vcc1 (VSS)** is the logic supply, and **Vcc2 (VS)** is the motor supply.  
+Multiple **ground pins** are provided for proper current return and stable operation.
 
 ## Internal IC Components
 

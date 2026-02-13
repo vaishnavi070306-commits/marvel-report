@@ -152,6 +152,9 @@ I implemented it using a **NOT gate** for the key input and an **AND gate** to d
 # Task  15: Active Participation 
 
 I participated in Kagadha 2024,in poster presentation under cyber security track that was held at uvce
+![WhatsApp Image 2026-02-13 at 8 26 18 PM](https://github.com/user-attachments/assets/99c79563-a75d-492a-88b7-c5e1563b6ec1)
+<br><br>
+
 
 
 # Task 16: Data Sheet Report Writing

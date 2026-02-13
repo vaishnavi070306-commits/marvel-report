@@ -146,13 +146,23 @@ The **L293D** is a dual H-bridge motor driver IC commonly used to control **the 
 ![WhatsApp Image 2026-01-17 at 7 00 02 PM](https://github.com/user-attachments/assets/99f52530-2052-4e44-b53a-e1e59bf16c9e)
 <br><br>
 
-### L293D Pin Description 
 
-The L293D motor driver IC consists of 16 pins used for motor control and power supply.  
-**Enable 1,2 (Pin 1)** enables Output 1 and Output 2, while **Enable 3,4 (Pin 9)** enables Output 3 and Output 4.  
-**Input 1 and Input 2** control Output 1 and Output 2, and **Input 3 and Input 4** control Output 3 and Output 4.  
-**Vcc1 (VSS)** is the logic supply, and **Vcc2 (VS)** is the motor supply.  
-Multiple **ground pins** are provided for proper current return and stable operation.
+| Pin / Group        | Description |
+|--------------------|-------------|
+| Enable 1,2 (Pin 1) | Enables Output 1 and Output 2 |
+| Input 1            | Controls Output 1 |
+| Input 2            | Controls Output 2 |
+| Output 1           | Motor terminal |
+| Output 2           | Motor terminal |
+| Enable 3,4 (Pin 9) | Enables Output 3 and Output 4 |
+| Input 3            | Controls Output 3 |
+| Input 4            | Controls Output 4 |
+| Output 3           | Motor terminal |
+| Output 4           | Motor terminal |
+| Vcc1 (VSS)         | Logic supply voltage |
+| Vcc2 (VS)          | Motor supply voltage |
+| Ground             | Common ground pins |
+
 
 ## Internal IC Components
 
